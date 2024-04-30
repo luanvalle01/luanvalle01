@@ -25,7 +25,6 @@
   <b>Programação em Rust</b>
   <ul>
     <li> Será a próxima linguagem que estudarei </li>
-    <li> Darei enfase em implementações com OpenGL</li>
   </ul>
 
  <h3>Softwares de desenvolvimento</h3>
