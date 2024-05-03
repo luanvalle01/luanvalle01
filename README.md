@@ -37,4 +37,4 @@
 Atuar em algo relacionado a pesquisa e desenvolvimento de novas soluções, principalmente na implementação de tecnologias em áreas não necessariamente correlatas.
 Meu sonho de infância sempre foi desenvolver e lançar um jogo!😊
 
-### Caso queira, dê uma olhada em meus respositórios:
+### Conheça meu trabalho:
